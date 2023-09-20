@@ -324,11 +324,11 @@ footer p{
         align-items: center;
         align-content: center;
         gap: 0;
-        max-width: 50%;
+        max-width: 80%;
         margin: 1rem auto;
     }
     .email-signup input{
-        max-width: 40%;
+        max-width: 50%;
         padding: 0.7rem;
     }
     
